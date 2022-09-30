@@ -1,6 +1,4 @@
-# zkEVM contribution guidelines
-
-Thank you for investing your time in contributing to our project! 
+#
 
 Before starting, we encourage you to take a look to the following documentation as it might help you in your first contribution adventure:
 - https://github.com/privacy-scaling-explorations/zkevm-docs
